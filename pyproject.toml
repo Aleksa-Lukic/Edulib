@@ -41,7 +41,7 @@ dev = [
 ]
 
 [options.packages.find]
-where=src
+where=["src"]
 
 [project.urls]
 "Homepage" = "https://github.com/Aleksa-Lukic/Edulib"
